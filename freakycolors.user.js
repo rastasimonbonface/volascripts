@@ -19,7 +19,7 @@
         "thejidf|jewmobile|mrshlomo": "pink",
         "auxo": "yellow",
         "dongmaster|doc": "#7aa2ff",
-        "31337h4x0r|realdolos|vagfacetrm|robocuck|(?:Red|Dong|Immor|lg188)dolos": "white",
+        "31337h4x0r|vagfacetrm|robocuck|(?:Red|Dong|Immor|lg188)dolos": "white",
         "RealDolos": "#fa7aff",
         "^kreg$": "hotpink",
         "^robo": "dodgerblue",
