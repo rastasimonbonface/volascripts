@@ -29,7 +29,8 @@
         "Counselor": "#7cff9a",
         "Wombot": "#ffa534",
         "Liquid": "#35eefd",
-        "Hakenkreuz": "red"
+        "Hakenkreuz": "red",
+        "TheJIDF": "#ffadad"
     };
     const r_colors = [];
     for (let name in colors) {
