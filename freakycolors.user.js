@@ -19,11 +19,16 @@
         "auxo": "yellow",
         "dongmaster|doc": "#7aa2ff",
         "31337h4x0r|realdolos|vagfacetrm|robocuck|(?:Red|Dong|Immor|lg188)dolos": "white",
+        "realdolos": "#fa7aff",
         "^kreg$": "hotpink",
         "^robo": "dodgerblue",
         "^lain$": "gold",
         "^apha$": "lightcoral",
-        "^red$": "indianred"
+        "^red$": "indianred",
+        "Counselor": "#7cff9a",
+        "Wombot": "#ffa534",
+        "Liquid": "#35eefd",
+        "Hakenkreuz": "red"
     };
     const r_colors = [];
     for (let name in colors) {

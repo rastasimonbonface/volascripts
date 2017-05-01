@@ -43,7 +43,7 @@ let active = false, button, file_list, thumb_list;
   font-size: 18px;
 }
 .volanail-button[active] {
-  box-shadow: inset 0px 0px 8px 3px rgba(120, 120, 120, 0.9);
+  background-color: #4fd8c0 !important;
 }
 #volanail-list {
   display: flex;
@@ -61,13 +61,11 @@ let active = false, button, file_list, thumb_list;
   align-items: center;
   width: calc(100% / 4 - 2.4ex);
   height: 250px;
-  border-radius: 10px;
   background: rgba(255,255,255,0.1);
   padding: 0.5em 0.2em;
-  margin: 0.5ex;
   text-decoration: none;
   text-align: center;
-  border: 2px solid rgba(128,128,128,0.3) !important;
+  border: 1px solid rgba(52, 52, 52, 0.3) !important;
 }
 .volanail-thumb .tag_key_ip {
   display: inline-block;

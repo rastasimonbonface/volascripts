@@ -1,25 +1,28 @@
-@-moz-document domain("volafile.io") {
+@-moz-document domain("volafile.org") {
 html {
-    --main-bg-color: #333333;
-    --snd-bg-color: #101010;
-    --input-color: #131313;
+    --main-bg-color: #1f1f1f;
+    --snd-bg-color: #232323;
+    --input-color: #232323;
     --input-disabled-color: #8e8e8e;
-    --snd-input-color: #333333;
-    --box-color: #282828;
-    --slider-color: #707070;
-    --hi-color: #282828;
-    --hi-hover-color: #505050;
-    --file-list-color: #282828;
-    --file-color: #3a3a3a;
-    --file-hover-color: #505050;
-    --header-hi-color: #404040;
+    --snd-input-color: #1f1f1f;
+    --box-color: #1f1f1f;
+    --slider-color: #1f1f1f;
+    --hi-color: #1f1f1f;
+    --hi-hover-color: #323232;
+    --file-list-color: #1f1f1f;
+    --file-color: #2e2e2e;
+    --file-hover-color: #3d3d3d;
+    --header-hi-color: #454545;
     --tag-color: rgba(160, 150, 150, 0.3);
-    --button-color: #dcdcdc;
-    --button-hi-color: #ececec;
+    --button-color: #01f3c9;
+    --button-hi-color: #4fd8c0;
     --button-light-color: #666666;
     --button-light-hi-color: #777777;
     --channel-color: #d880fc;
 }
+    #header >* {
+        color: #01f3c9 !important;
+    }
 * {
     border-color: var(--main-bg-color) !important;
 }
@@ -247,7 +250,7 @@ body {
     color: #fc807e;
 }
 .chat_message.staff:not(.user) .username {
-    color: #ff6c00;
+    color: #01f3c9;
 }
 .chat_message.admin .username {
     color: #d880fc;
@@ -274,7 +277,7 @@ a.header_row_element_disabled,
 a.header_row_element_disabled:active,
 a.header_row_element_disabled:hover,
 a.header_row_element_disabled:visited {
-    color: #e0e0e0;
+    color: #01f3c9;
 }
 #radio_container {
     background-color: var(--main-bg-color);
