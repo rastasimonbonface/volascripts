@@ -4,7 +4,7 @@
 // @version      0.10
 // @description  try to take over the world!
 // @author       You
-// @match        https://volafile.io/r/*
+// @match        https://volafile.org/r/*
 // @grant        none
 // @run-at       document-start
 // ==/UserScript==
