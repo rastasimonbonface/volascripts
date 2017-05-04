@@ -15,6 +15,7 @@
     "use strict";
 
     const colors = {
+        "rastaSimon": "#01f3c9",
         "getddosed": "blue",
         "thejidf|jewmobile|mrshlomo": "pink",
         "auxo": "yellow",
@@ -30,7 +31,10 @@
         "Wombot": "#ffa534",
         "Liquid": "#35eefd",
         "Hakenkreuz": "red",
-        "TheJIDF": "#ffadad"
+        "TheJIDF": "#ffadad",
+        "Bread": "#fdc479",
+        "Vinyage": "#a4fda4",
+        "V4444": "#ffb3e8"
     };
     const r_colors = [];
     for (let name in colors) {
