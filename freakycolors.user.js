@@ -29,12 +29,18 @@
         "^red$": "indianred",
         "Counselor": "#7cff9a",
         "Wombot": "#ffa534",
+        "JossFongVox": "#ffa534",
         "Liquid": "#35eefd",
         "Hakenkreuz": "red",
         "TheJIDF": "#ffadad",
         "Bread": "#fdc479",
         "Vinyage": "#a4fda4",
-        "V4444": "#ffb3e8"
+        "V4444": "#ffb3e8",
+        "MetalJesus": "#a5c69b",
+        "KhanKussion": "#9bafc6",
+        "JohnMatton": "#d4e078",
+        "Gerblets": "#fde1fd",
+        "Hybris": "#fde1fd"
     };
     const r_colors = [];
     for (let name in colors) {
